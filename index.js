@@ -24,7 +24,7 @@ class Dinner {
         this.salad = salad
         this.soup = soup
         this.entree = entree
-        let __dessert = dessert
+        let _dessert = dessert
 
     }
 }
